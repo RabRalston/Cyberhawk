@@ -1,0 +1,57 @@
+@font-face {
+	font-family: 'Cyberhawk';
+	src: URL('/assets/fonts/TitilliumWeb-Regular.ttf') format('truetype');
+}
+
+html,
+body {
+	font-family: 'Cyberhawk' !important;
+	background-image: linear-gradient(to right, #ffd12d 0%, #ffd12d 100%);
+}
+
+.navbar {
+	height: 100px;
+	background-color: #fff;
+}
+
+.nav_button {
+	display: block;
+	background-color: #ffd12d;
+	color: #282828;
+	border-radius: 36px;
+	padding: 17px 23px;
+	font-size: 14px;
+	margin-left: 35px;
+	width: 95px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.container {
+	background-color: #fff;
+}
+
+.fa-check-circle {
+	color: #4CAF50;
+}
+
+.fa-bolt {
+	color: #ffd12d;
+}
+
+.fa-water {
+	color: brown;
+}
+
+.fa-exclamation-circle {
+	color: red;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	color: black;
+	font-weight: bold !important;
+}
