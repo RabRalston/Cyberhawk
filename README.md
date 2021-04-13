@@ -16,3 +16,15 @@ nice user experience. Share the code to us and show us what you can do.
 4. Getting it to run on a free AWS instance
 5. Sharing your plan and approach (any notes you made before coding started)
 6. Any future plans for how the application could be improved
+
+# How to view
+
+The project can be viewed on Amazon Web Services at the following location:
+
+http://18.130.243.207/index.php
+
+Alternatively, it can be run from the Terminal, by navigating to the project folder and starting a local PHP server:
+
+php -S localhost:8000
+
+Opening a browser and going to http://localhost:8000 will show the resulting page.
